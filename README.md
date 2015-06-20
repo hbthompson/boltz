@@ -1,0 +1,2 @@
+# boltz
+Wordpress starter theme
